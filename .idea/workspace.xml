@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f5927d6-6cd8-42d9-aa83-7d8697b9417b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vs/RBInoENV/v15/.suo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vs/slnx.sqlite" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/image/404/7iJg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/image/404/Blog-404-01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/image/404/EKkD.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/image/404/EKkZ.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/image/404/Isov.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/image/404/MbHU.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/image/404/image2017-2-8+17_46_36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/image/loading/Disqus-1s-200px.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/image/loading/Flickr-1s-100px.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/image/loading/Pacman-1s-100px.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/image/logo/CortekLogo_hoang.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/image/logo/HUST.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/image/logo/HUST100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/image/logo/HUST150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/image/logo/HUST_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/image/logo/HoangCortek.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/image/logo/PTIT150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/image/logo/PTIT_70.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/image/logo/abc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/image/logo/cloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/image/logo/cooltext280288669465020.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/image/logo/forum.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/image/logo/help-and-support.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/image/logo/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/image/logo/upload_cloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/Equipment_Storage Tank-2019-11-06 16-56-07.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/Inspection_Import_Template_31-Dec-2019 141657454.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/Inspection_Import_Template_31-Dec-2019 141657454_2swGKja.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/Inspection_Import_Template_31-Dec-2019-141657454.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/Inspection_Import_Template_31-Dec-2019-141657454_mUKPk3E.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/Inspection_Import_Template_31-Dec-2019-141657454_mxt4xiF.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/PlantProcess (6).xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/404/7iJg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/404/Blog-404-01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/404/EKkD.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/404/EKkZ.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/404/Isov.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/404/MbHU.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/404/image2017-2-8+17_46_36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/loading/Disqus-1s-200px.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/loading/Flickr-1s-100px.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/loading/Pacman-1s-100px.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/logo/CortekLogo_hoang.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/logo/HUST.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/logo/HUST100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/logo/HUST150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/logo/HUST_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/logo/HoangCortek.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/logo/PTIT150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/logo/PTIT_70.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/logo/abc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/logo/cloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/logo/cooltext280288669465020.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/logo/forum.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/logo/help-and-support.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/logo/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/image/logo/upload_cloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vs/ProjectSettings.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Procfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RbiCloud/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RbiCloud/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RbiCloud/wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ReadMe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TUAN.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/author.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/apps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/migrations/0002_auto_20191115_1559.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/process/File/export_data.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/process/File/import_data.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/process/RBI/CA_CAL.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/process/RBI/CO_CAL.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/process/RBI/DM_CAL.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/process/RBI/Postgresql.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/process/RBI/fastCalulate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/process/RBI/pofConvert.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/process/ReadMe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/process/WebUI/date2Str.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/process/WebUI/location.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/process/WebUI/roundData.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/regularverification/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/regularverification/interpolation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/regularverification/regular.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/css/404.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/css/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/css/business.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/css/email.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/css/forum.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/css/help.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/css/manager.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/css/people.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/static/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/tokens.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloud/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/ReadMe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mysql/Dump20190829-1.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mysql/Dump20191102-rbi6.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mysql/Dump20191127.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mysql/Dump20200107 (1).sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mysql/Dump20200107 (2).sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mysql/Dump20200108.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mysql/Dump20200114rbi6.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/mysql/Dump20200303.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/postgresql/vuna.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirements.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/404.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/business.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/email.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/forum.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/help.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/manager.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/people.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/404/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseCitizen/baseCitizen.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseCitizen/baseCitizenHome.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseCitizen/baseRiskSummary_Citizen.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseFacility/baseBusiness.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseFacility/baseComponent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseFacility/baseDesigncode.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseFacility/baseEquipment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseFacility/baseFacility.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseFacility/baseManufacture.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseFacility/baseProposal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseFacility/baseRiskSummary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseFacility/baseUpload.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseForum/forumhome.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseForum/forumposts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseHelp/BaseHelp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseHelp/baseHelp_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseManager/Inputdata.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseManager/ManagerHome.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseManager/VerificationBase.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseManager/baseComponentMana.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseManager/baseDesigncodeMana.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseManager/baseEquipmentMana.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseManager/baseManager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseManager/baseManufactureMana.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseManager/baseProposalMana.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseManager/baseRiskSummaryMana.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseManager/basefacilitymana.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseMessages/BaseMessages.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/BaseUI/BaseWeb/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/CitizenUI/CitizenHome.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/CitizenUI/Citizen_list_facility.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/CitizenUI/ListProposalCitizen.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/CitizenUI/infor_facility.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/CitizenUI/risk_summary_Citizen/dfFull_Citizen.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/CitizenUI/risk_summary_Citizen/fullyBottomConsequence_Citizen.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/CitizenUI/risk_summary_Citizen/fullyNormalConsequence_Citizen.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/CitizenUI/risk_summary_Citizen/fullyShellConsequence_Citizen.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/CitizenUI/risk_summary_Citizen/riskChart_Citizen.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/CitizenUI/risk_summary_Citizen/riskMatrix_Citizen.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/CitizenUI/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/component/componentEdit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/component/componentListDisplay.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/component/componentNew.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/design_code/designcodeEdit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/design_code/designcodeListDisplay.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/design_code/designcodeNew.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/equipment/equipmentEdit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/equipment/equipmentListDisplay.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/equipment/equipmentNew.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/facility/facilityEdit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/facility/facilityListDisplay.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/facility/facilityNew.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/facility/uploadData.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/inspection_plan/addInspectionPlan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/inspection_plan/createInspectionPlan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/inspection_plan/inspectionPlanNew.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/manufacture/manufactureEdit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/manufacture/manufactureListDisplay.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/manufacture/manufactureNew.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/proposal/NewSensor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/proposal/SensorConnect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/proposal/proposalListDisplay.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/proposal/proposalNormalEdit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/proposal/proposalNormalNew.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/proposal/proposalTankEdit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/proposal/proposalTankNew.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/risk_excel/tableExcel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/risk_summary/dfFull.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/risk_summary/fullyBottomConsequence.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/risk_summary/fullyNormalConsequence.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/risk_summary/fullyShellConsequence.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/risk_summary/proposalCorrisionRate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/risk_summary/riskChart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/FacilityUI/risk_summary/riskMatrix.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Home/Account/activateEmail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Home/Account/signup_business.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Home/Account/signup_management.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Home/Account/sigup_citizen.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Home/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/ManagerUI/Business_List.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/ManagerUI/Equipment_List.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/ManagerUI/RiskSummaryMana/FullDF.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/ManagerUI/RiskSummaryMana/RiskMatrixMana.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/ManagerUI/RiskSummaryMana/fullyBottomConsequenceMana.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/ManagerUI/RiskSummaryMana/fullyNormalConsequenceMana.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/ManagerUI/RiskSummaryMana/fullyShellConsequenceMana.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/ManagerUI/RiskSummaryMana/riskChartMana.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/ManagerUI/component_List.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/ManagerUI/designcode_List.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/ManagerUI/facility_List.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/ManagerUI/manufacture_List.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/ManagerUI/proposal_List.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/ManagerUI/verification_requirments/FullDFV.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/ManagerUI/verification_requirments/VerificationContent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/ManagerUI/verification_requirments/VerificationHome.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/ManagerUI/verification_requirments/VerificationNumberFacilities.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/ManagerUI/verification_requirments/fullyBottomConsequenVerification.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/ManagerUI/verification_requirments/fullyNormalConsequenceVericification.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/ManagerUI/verification_requirments/fullyShellConsequenceVerification.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/ManagerUI/verification_requirments/verification_sucsessfull.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Messages/Messages_Inbox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Messages/Messages_Sent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/ReadMe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/help/Account_Management/Access_and_Download_Information.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/help/Account_Management/Login_and_Password.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/help/Account_Management/Notification.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/help/Account_Management/Personal_Information.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/help/Policies_Reports.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/help/Private_Safe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/help/User_Manual/help_Business.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/help/User_Manual/help_Citizen.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/help/User_Manual/help_Manager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/help/User_Manual/test_help.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/help/help.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/response/complete_regiatration.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/response/totally_complete.html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Procfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Procfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RbiCloud/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="160" column="34" lean-forward="true" selection-start-line="160" selection-start-column="34" selection-end-line="160" selection-end-column="34" />
+              <folding>
+                <element signature="e#307#316#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-868">
+              <caret line="18" column="26" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="core.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/python/Lib/site-packages/django_heroku/core.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-841">
+              <caret line="44" column="12" lean-forward="false" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ALLOWED_HOSTS</find>
+      <find>django</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/RbiCloud/settings.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="130" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Update_RBI_Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Update_RBI_Web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Update_RBI_Web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Update_RBI_Web" type="462c0819:PsiDirectoryNode" />
+              <item name="RbiCloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.Update_RBI_Web">
+    <configuration name="Update_RBI_Web" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Update_RBI_Web" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f5927d6-6cd8-42d9-aa83-7d8697b9417b" name="Default" comment="" />
+      <created>1588582102220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588582102220</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/site-packages/django_heroku/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-841">
+          <caret line="44" column="12" lean-forward="false" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-868">
+          <caret line="18" column="26" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RbiCloud/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="160" column="34" lean-forward="true" selection-start-line="160" selection-start-column="34" selection-end-line="160" selection-end-column="34" />
+          <folding>
+            <element signature="e#307#316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
